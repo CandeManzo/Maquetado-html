@@ -1,0 +1,13 @@
+[  {
+     "nombre": "Candela",
+     "apellido": "Manzo",
+     "edad": 23
+   },
+   { "historial": [
+      { "localidad": "Ituzaingó",
+        "nacimiento": "Morón",
+        "fecha": "20/06/99" 
+      }
+      ]
+    }
+]
